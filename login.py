@@ -1,3 +1,5 @@
 print("github login")
 print("username password")
 print("ask for credentials")
+print("forgot password")
+print("forgot username")
